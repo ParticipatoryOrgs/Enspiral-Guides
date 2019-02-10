@@ -6,6 +6,9 @@ This is an experimental new collection of "how Enspiral works" content. Stay tun
 
 * [How Money Works at Enspiral](https://github.com/enspiral/guides/blob/master/money.md)
 * [Collaborating Better](https://github.com/enspiral/guides/blob/master/collaborating-better.md)
+* [Communications Guidelines](https://github.com/enspiral/guides/blob/master/comms.md)
+* [Using GitHub for documentation at Enspiral](https://github.com/enspiral/guides/blob/master/github-for-documentation.md)
+* [Welcoming new Contributors](https://github.com/enspiral/guides/blob/master/welcoming-new-contributors.md)
 
 **About these articles**
 
@@ -26,3 +29,11 @@ A **_Story_** is a narrative form which reveals the context and purpose from whi
 * How did that change how you operate - what you did and how you did it?
 * What impact has this change in practice had?
 * What are the learning edges right now?
+
+## Contributing
+
+`enspiral/guides` is an **OPEN Open Source Project**. This means that:
+
+> Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. This project is more like an open wiki than a standard guarded open source project.
+
+See the [contribution guide](./CONTRIBUTING.md) for more details and the [Using GitHub for documentation at Enspiral](https://github.com/enspiral/guides/blob/master/github-for-documentation.md) guide for simple and fun video instructions to learn to use GitHub for this purpose.
